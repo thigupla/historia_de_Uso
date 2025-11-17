@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Configuración del Diagrama
     direction LR
@@ -33,4 +34,4 @@ graph TD
     %% Relaciones del Jefe de Compras (J)
     J --> CU4
     J --> CU5
-
+```
