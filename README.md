@@ -1,6 +1,5 @@
 # ```mermaid
 gráfico TD
-...
 l Diagrama de Casos de Uso (Mermaid Syntax)
 
 El siguiente bloque de código es el que genera la imagen visualizada. No modifiques las líneas que contienen las tres comillas invertidas (```) ni la palabra `mermaid`.
@@ -34,3 +33,4 @@ graph TD
 
     J --> CU4
     J --> CU5
+```
