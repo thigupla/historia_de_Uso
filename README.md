@@ -1,4 +1,4 @@
-# ```mermaid
+# mermaid **
 gráfico TD
 %% Use Case Diagram (Diagrama de Casos de Uso)
 graph TD
